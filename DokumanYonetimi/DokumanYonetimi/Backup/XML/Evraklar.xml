@@ -1,0 +1,27 @@
+<?xml version="1.0" standalone="yes"?>
+<Evraklar>
+  <EvrakBilgileri>
+    <Evrak_id>9</Evrak_id>
+    <dosya_adi>WEB SİTESİ.docx</dosya_adi>
+    <Firma_id>3</Firma_id>
+    <Firma_Adi>DENEME TEKSTIL</Firma_Adi>
+  </EvrakBilgileri>
+  <EvrakBilgileri>
+    <Evrak_id>10</Evrak_id>
+    <dosya_adi>siparisi_bitir.png</dosya_adi>
+    <Firma_id>3</Firma_id>
+    <Firma_Adi>DENEME TEKSTIL</Firma_Adi>
+  </EvrakBilgileri>
+  <EvrakBilgileri>
+    <Evrak_id>11</Evrak_id>
+    <dosya_adi>M012018000009031.pdf</dosya_adi>
+    <Firma_id>6</Firma_id>
+    <Firma_Adi>elvan tektil</Firma_Adi>
+  </EvrakBilgileri>
+  <EvrakBilgileri>
+    <Evrak_id>12</Evrak_id>
+    <dosya_adi>M012018000009097.pdf</dosya_adi>
+    <Firma_id>6</Firma_id>
+    <Firma_Adi>elvan tektil</Firma_Adi>
+  </EvrakBilgileri>
+</Evraklar>

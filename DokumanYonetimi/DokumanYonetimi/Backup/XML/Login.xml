@@ -1,0 +1,11 @@
+<?xml version="1.0" standalone="yes"?>
+<employee>
+  <Kullanicilar>
+    <KullaniciAdi>imtas</KullaniciAdi>
+    <Sifre>imtas2018!</Sifre>
+  </Kullanicilar>
+  <Kullanicilar>
+    <KullaniciAdi>m</KullaniciAdi>
+    <Sifre>1</Sifre>
+  </Kullanicilar>
+</employee>

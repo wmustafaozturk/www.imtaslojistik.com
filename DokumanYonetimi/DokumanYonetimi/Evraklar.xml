@@ -1,0 +1,15 @@
+<?xml version="1.0" standalone="yes"?>
+<Evraklar>
+  <EvrakBilgileri>
+    <Evrak_id>8</Evrak_id>
+    <dosya_adi>key amazon.txt</dosya_adi>
+    <Firma_id>4</Firma_id>
+    <Firma_Adi>ISTANBUL TEKSTIL SAN</Firma_Adi>
+  </EvrakBilgileri>
+  <EvrakBilgileri>
+    <Evrak_id>9</Evrak_id>
+    <dosya_adi>WEB SİTESİ.docx</dosya_adi>
+    <Firma_id>6</Firma_id>
+    <Firma_Adi>elvan tektil</Firma_Adi>
+  </EvrakBilgileri>
+</Evraklar>

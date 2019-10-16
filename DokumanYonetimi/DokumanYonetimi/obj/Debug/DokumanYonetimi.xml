@@ -1,0 +1,887 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+DokumanYonetimi
+</name>
+</assembly>
+<members>
+<member name="T:DokumanYonetimi.My.MyWebExtension">
+ <summary>
+ My Namespace for Web projelerinde kullanılabilen özellikleri tanımlamak için kullanılan modül.
+ </summary>
+ <remarks></remarks>
+</member>
+<member name="P:DokumanYonetimi.My.MyWebExtension.Computer">
+ <summary>
+ Ana bilgisayarla ilgili bilgiler döndürür.
+ </summary>
+</member>
+<member name="P:DokumanYonetimi.My.MyWebExtension.User">
+ <summary>
+ Geçerli Web kullanıcısıyla ilgili bilgiler döndürür.
+ </summary>
+</member>
+<member name="P:DokumanYonetimi.My.MyWebExtension.Request">
+ <summary>
+ Request nesnesi döndürür.
+ </summary>
+</member>
+<member name="P:DokumanYonetimi.My.MyWebExtension.Response">
+ <summary>
+ Response nesnesi döndürür.
+ </summary>
+</member>
+<member name="P:DokumanYonetimi.My.MyWebExtension.Log">
+ <summary>
+ Asp günlüğü nesnesi döndürür.
+ </summary>
+</member>
+<member name="F:DokumanYonetimi.Evraklar._form1">
+<summary>
+form1 denetimi.
+</summary>
+<remarks>
+Otomatik üretilmiş alan.
+Değiştirmek için, alan bildirimini tasarımcı dosyasından arka plan kod dosyasına taşıyın.
+</remarks>
+</member>
+<member name="F:DokumanYonetimi.Evraklar._BtnYonetimRapor">
+<summary>
+BtnYonetimRapor denetimi.
+</summary>
+<remarks>
+Otomatik üretilmiş alan.
+Değiştirmek için, alan bildirimini tasarımcı dosyasından arka plan kod dosyasına taşıyın.
+</remarks>
+</member>
+<member name="F:DokumanYonetimi.Evraklar._TxtAra">
+<summary>
+TxtAra denetimi.
+</summary>
+<remarks>
+Otomatik üretilmiş alan.
+Değiştirmek için, alan bildirimini tasarımcı dosyasından arka plan kod dosyasına taşıyın.
+</remarks>
+</member>
+<member name="F:DokumanYonetimi.Evraklar._Btn_Evrak_Ara">
+<summary>
+Btn_Evrak_Ara denetimi.
+</summary>
+<remarks>
+Otomatik üretilmiş alan.
+Değiştirmek için, alan bildirimini tasarımcı dosyasından arka plan kod dosyasına taşıyın.
+</remarks>
+</member>
+<member name="F:DokumanYonetimi.Evraklar._Btn_Firma_Sec_Ara">
+<summary>
+Btn_Firma_Sec_Ara denetimi.
+</summary>
+<remarks>
+Otomatik üretilmiş alan.
+Değiştirmek için, alan bildirimini tasarımcı dosyasından arka plan kod dosyasına taşıyın.
+</remarks>
+</member>
+<member name="F:DokumanYonetimi.Evraklar._Btn_Evrak_Ekle">
+<summary>
+Btn_Evrak_Ekle denetimi.
+</summary>
+<remarks>
+Otomatik üretilmiş alan.
+Değiştirmek için, alan bildirimini tasarımcı dosyasından arka plan kod dosyasına taşıyın.
+</remarks>
+</member>
+<member name="F:DokumanYonetimi.Evraklar._Btn_iptal">
+<summary>
+Btn_iptal denetimi.
+</summary>
+<remarks>
+Otomatik üretilmiş alan.
+Değiştirmek için, alan bildirimini tasarımcı dosyasından arka plan kod dosyasına taşıyın.
+</remarks>
+</member>
+<member name="F:DokumanYonetimi.Evraklar._LblId">
+<summary>
+LblId denetimi.
+</summary>
+<remarks>
+Otomatik üretilmiş alan.
+Değiştirmek için, alan bildirimini tasarımcı dosyasından arka plan kod dosyasına taşıyın.
+</remarks>
+</member>
+<member name="F:DokumanYonetimi.Evraklar._Label1">
+<summary>
+Label1 denetimi.
+</summary>
+<remarks>
+Otomatik üretilmiş alan.
+Değiştirmek için, alan bildirimini tasarımcı dosyasından arka plan kod dosyasına taşıyın.
+</remarks>
+</member>
+<member name="F:DokumanYonetimi.Evraklar._LblDosyaAdi">
+<summary>
+LblDosyaAdi denetimi.
+</summary>
+<remarks>
+Otomatik üretilmiş alan.
+Değiştirmek için, alan bildirimini tasarımcı dosyasından arka plan kod dosyasına taşıyın.
+</remarks>
+</member>
+<member name="F:DokumanYonetimi.Evraklar._Beyanname_id">
+<summary>
+Beyanname_id denetimi.
+</summary>
+<remarks>
+Otomatik üretilmiş alan.
+Değiştirmek için, alan bildirimini tasarımcı dosyasından arka plan kod dosyasına taşıyın.
+</remarks>
+</member>
+<member name="F:DokumanYonetimi.Evraklar._Div_Beyannameler">
+<summary>
+Div_Beyannameler denetimi.
+</summary>
+<remarks>
+Otomatik üretilmiş alan.
+Değiştirmek için, alan bildirimini tasarımcı dosyasından arka plan kod dosyasına taşıyın.
+</remarks>
+</member>
+<member name="F:DokumanYonetimi.Evraklar._GridView1">
+<summary>
+GridView1 denetimi.
+</summary>
+<remarks>
+Otomatik üretilmiş alan.
+Değiştirmek için, alan bildirimini tasarımcı dosyasından arka plan kod dosyasına taşıyın.
+</remarks>
+</member>
+<member name="F:DokumanYonetimi.Evraklar._Div_Evrak_Ekle">
+<summary>
+Div_Evrak_Ekle denetimi.
+</summary>
+<remarks>
+Otomatik üretilmiş alan.
+Değiştirmek için, alan bildirimini tasarımcı dosyasından arka plan kod dosyasına taşıyın.
+</remarks>
+</member>
+<member name="F:DokumanYonetimi.Evraklar._TXT_FIRMA_ID">
+<summary>
+TXT_FIRMA_ID denetimi.
+</summary>
+<remarks>
+Otomatik üretilmiş alan.
+Değiştirmek için, alan bildirimini tasarımcı dosyasından arka plan kod dosyasına taşıyın.
+</remarks>
+</member>
+<member name="F:DokumanYonetimi.Evraklar._Btn_Evrak_Ekle_Firma_Sec">
+<summary>
+Btn_Evrak_Ekle_Firma_Sec denetimi.
+</summary>
+<remarks>
+Otomatik üretilmiş alan.
+Değiştirmek için, alan bildirimini tasarımcı dosyasından arka plan kod dosyasına taşıyın.
+</remarks>
+</member>
+<member name="F:DokumanYonetimi.Evraklar._TXT_FIRMA_ADI">
+<summary>
+TXT_FIRMA_ADI denetimi.
+</summary>
+<remarks>
+Otomatik üretilmiş alan.
+Değiştirmek için, alan bildirimini tasarımcı dosyasından arka plan kod dosyasına taşıyın.
+</remarks>
+</member>
+<member name="F:DokumanYonetimi.Evraklar._FileUpload1">
+<summary>
+FileUpload1 denetimi.
+</summary>
+<remarks>
+Otomatik üretilmiş alan.
+Değiştirmek için, alan bildirimini tasarımcı dosyasından arka plan kod dosyasına taşıyın.
+</remarks>
+</member>
+<member name="F:DokumanYonetimi.Evraklar._Btn_Evrak_Yukle">
+<summary>
+Btn_Evrak_Yukle denetimi.
+</summary>
+<remarks>
+Otomatik üretilmiş alan.
+Değiştirmek için, alan bildirimini tasarımcı dosyasından arka plan kod dosyasına taşıyın.
+</remarks>
+</member>
+<member name="F:DokumanYonetimi.Evraklar._Btn_Beyanname_Kaydet_Iptal">
+<summary>
+Btn_Beyanname_Kaydet_Iptal denetimi.
+</summary>
+<remarks>
+Otomatik üretilmiş alan.
+Değiştirmek için, alan bildirimini tasarımcı dosyasından arka plan kod dosyasına taşıyın.
+</remarks>
+</member>
+<member name="F:DokumanYonetimi.Evraklar._Div_Beyanname_Sec">
+<summary>
+Div_Beyanname_Sec denetimi.
+</summary>
+<remarks>
+Otomatik üretilmiş alan.
+Değiştirmek için, alan bildirimini tasarımcı dosyasından arka plan kod dosyasına taşıyın.
+</remarks>
+</member>
+<member name="F:DokumanYonetimi.Evraklar._GridView2">
+<summary>
+GridView2 denetimi.
+</summary>
+<remarks>
+Otomatik üretilmiş alan.
+Değiştirmek için, alan bildirimini tasarımcı dosyasından arka plan kod dosyasına taşıyın.
+</remarks>
+</member>
+<member name="F:DokumanYonetimi.HaberGiris._form1">
+<summary>
+form1 denetimi.
+</summary>
+<remarks>
+Otomatik üretilmiş alan.
+Değiştirmek için, alan bildirimini tasarımcı dosyasından arka plan kod dosyasına taşıyın.
+</remarks>
+</member>
+<member name="F:DokumanYonetimi.HaberGiris._ScriptManager1">
+<summary>
+ScriptManager1 denetimi.
+</summary>
+<remarks>
+Otomatik üretilmiş alan.
+Değiştirmek için, alan bildirimini tasarımcı dosyasından arka plan kod dosyasına taşıyın.
+</remarks>
+</member>
+<member name="F:DokumanYonetimi.HaberGiris._UpdatePanel1">
+<summary>
+UpdatePanel1 denetimi.
+</summary>
+<remarks>
+Otomatik üretilmiş alan.
+Değiştirmek için, alan bildirimini tasarımcı dosyasından arka plan kod dosyasına taşıyın.
+</remarks>
+</member>
+<member name="F:DokumanYonetimi.HaberGiris._BtnYonetimRapor">
+<summary>
+BtnYonetimRapor denetimi.
+</summary>
+<remarks>
+Otomatik üretilmiş alan.
+Değiştirmek için, alan bildirimini tasarımcı dosyasından arka plan kod dosyasına taşıyın.
+</remarks>
+</member>
+<member name="F:DokumanYonetimi.HaberGiris._TxtAra">
+<summary>
+TxtAra denetimi.
+</summary>
+<remarks>
+Otomatik üretilmiş alan.
+Değiştirmek için, alan bildirimini tasarımcı dosyasından arka plan kod dosyasına taşıyın.
+</remarks>
+</member>
+<member name="F:DokumanYonetimi.HaberGiris._BtnAra">
+<summary>
+BtnAra denetimi.
+</summary>
+<remarks>
+Otomatik üretilmiş alan.
+Değiştirmek için, alan bildirimini tasarımcı dosyasından arka plan kod dosyasına taşıyın.
+</remarks>
+</member>
+<member name="F:DokumanYonetimi.HaberGiris._Kayit_id">
+<summary>
+Kayit_id denetimi.
+</summary>
+<remarks>
+Otomatik üretilmiş alan.
+Değiştirmek için, alan bildirimini tasarımcı dosyasından arka plan kod dosyasına taşıyın.
+</remarks>
+</member>
+<member name="F:DokumanYonetimi.HaberGiris._BtnHaberEkle">
+<summary>
+BtnHaberEkle denetimi.
+</summary>
+<remarks>
+Otomatik üretilmiş alan.
+Değiştirmek için, alan bildirimini tasarımcı dosyasından arka plan kod dosyasına taşıyın.
+</remarks>
+</member>
+<member name="F:DokumanYonetimi.HaberGiris._Div_Kullanicilar_Grid">
+<summary>
+Div_Kullanicilar_Grid denetimi.
+</summary>
+<remarks>
+Otomatik üretilmiş alan.
+Değiştirmek için, alan bildirimini tasarımcı dosyasından arka plan kod dosyasına taşıyın.
+</remarks>
+</member>
+<member name="F:DokumanYonetimi.HaberGiris._GridView1">
+<summary>
+GridView1 denetimi.
+</summary>
+<remarks>
+Otomatik üretilmiş alan.
+Değiştirmek için, alan bildirimini tasarımcı dosyasından arka plan kod dosyasına taşıyın.
+</remarks>
+</member>
+<member name="F:DokumanYonetimi.HaberGiris._Div_Haber_Ekle">
+<summary>
+Div_Haber_Ekle denetimi.
+</summary>
+<remarks>
+Otomatik üretilmiş alan.
+Değiştirmek için, alan bildirimini tasarımcı dosyasından arka plan kod dosyasına taşıyın.
+</remarks>
+</member>
+<member name="F:DokumanYonetimi.HaberGiris._TXT_HABER_BASLIK">
+<summary>
+TXT_HABER_BASLIK denetimi.
+</summary>
+<remarks>
+Otomatik üretilmiş alan.
+Değiştirmek için, alan bildirimini tasarımcı dosyasından arka plan kod dosyasına taşıyın.
+</remarks>
+</member>
+<member name="F:DokumanYonetimi.HaberGiris._TXT_HABER_DETAY">
+<summary>
+TXT_HABER_DETAY denetimi.
+</summary>
+<remarks>
+Otomatik üretilmiş alan.
+Değiştirmek için, alan bildirimini tasarımcı dosyasından arka plan kod dosyasına taşıyın.
+</remarks>
+</member>
+<member name="F:DokumanYonetimi.HaberGiris._TXT_HABER_YAYINLAMA_TARIHI">
+<summary>
+TXT_HABER_YAYINLAMA_TARIHI denetimi.
+</summary>
+<remarks>
+Otomatik üretilmiş alan.
+Değiştirmek için, alan bildirimini tasarımcı dosyasından arka plan kod dosyasına taşıyın.
+</remarks>
+</member>
+<member name="F:DokumanYonetimi.HaberGiris._BtnHaberKaydet">
+<summary>
+BtnHaberKaydet denetimi.
+</summary>
+<remarks>
+Otomatik üretilmiş alan.
+Değiştirmek için, alan bildirimini tasarımcı dosyasından arka plan kod dosyasına taşıyın.
+</remarks>
+</member>
+<member name="F:DokumanYonetimi.HaberGiris._BtnHaberGuncelleKaydet">
+<summary>
+BtnHaberGuncelleKaydet denetimi.
+</summary>
+<remarks>
+Otomatik üretilmiş alan.
+Değiştirmek için, alan bildirimini tasarımcı dosyasından arka plan kod dosyasına taşıyın.
+</remarks>
+</member>
+<member name="F:DokumanYonetimi.HaberGiris._BtnHaberIptal">
+<summary>
+BtnHaberIptal denetimi.
+</summary>
+<remarks>
+Otomatik üretilmiş alan.
+Değiştirmek için, alan bildirimini tasarımcı dosyasından arka plan kod dosyasına taşıyın.
+</remarks>
+</member>
+<member name="F:DokumanYonetimi.Haberler._form1">
+<summary>
+form1 denetimi.
+</summary>
+<remarks>
+Otomatik üretilmiş alan.
+Değiştirmek için, alan bildirimini tasarımcı dosyasından arka plan kod dosyasına taşıyın.
+</remarks>
+</member>
+<member name="F:DokumanYonetimi.Haberler._ScriptManager1">
+<summary>
+ScriptManager1 denetimi.
+</summary>
+<remarks>
+Otomatik üretilmiş alan.
+Değiştirmek için, alan bildirimini tasarımcı dosyasından arka plan kod dosyasına taşıyın.
+</remarks>
+</member>
+<member name="F:DokumanYonetimi.Haberler._UpdatePanel1">
+<summary>
+UpdatePanel1 denetimi.
+</summary>
+<remarks>
+Otomatik üretilmiş alan.
+Değiştirmek için, alan bildirimini tasarımcı dosyasından arka plan kod dosyasına taşıyın.
+</remarks>
+</member>
+<member name="F:DokumanYonetimi.Haberler._DataList1">
+<summary>
+DataList1 denetimi.
+</summary>
+<remarks>
+Otomatik üretilmiş alan.
+Değiştirmek için, alan bildirimini tasarımcı dosyasından arka plan kod dosyasına taşıyın.
+</remarks>
+</member>
+<member name="F:DokumanYonetimi.Kariyer._form1">
+<summary>
+form1 denetimi.
+</summary>
+<remarks>
+Otomatik üretilmiş alan.
+Değiştirmek için, alan bildirimini tasarımcı dosyasından arka plan kod dosyasına taşıyın.
+</remarks>
+</member>
+<member name="F:DokumanYonetimi.Kariyer._Label4">
+<summary>
+Label4 denetimi.
+</summary>
+<remarks>
+Otomatik üretilmiş alan.
+Değiştirmek için, alan bildirimini tasarımcı dosyasından arka plan kod dosyasına taşıyın.
+</remarks>
+</member>
+<member name="F:DokumanYonetimi.Kariyer._FileUpload1">
+<summary>
+FileUpload1 denetimi.
+</summary>
+<remarks>
+Otomatik üretilmiş alan.
+Değiştirmek için, alan bildirimini tasarımcı dosyasından arka plan kod dosyasına taşıyın.
+</remarks>
+</member>
+<member name="F:DokumanYonetimi.Kariyer._BtnKaydet">
+<summary>
+BtnKaydet denetimi.
+</summary>
+<remarks>
+Otomatik üretilmiş alan.
+Değiştirmek için, alan bildirimini tasarımcı dosyasından arka plan kod dosyasına taşıyın.
+</remarks>
+</member>
+<member name="F:DokumanYonetimi.Kariyer._Label1">
+<summary>
+Label1 denetimi.
+</summary>
+<remarks>
+Otomatik üretilmiş alan.
+Değiştirmek için, alan bildirimini tasarımcı dosyasından arka plan kod dosyasına taşıyın.
+</remarks>
+</member>
+<member name="F:DokumanYonetimi.Login._form1">
+<summary>
+form1 denetimi.
+</summary>
+<remarks>
+Otomatik üretilmiş alan.
+Değiştirmek için, alan bildirimini tasarımcı dosyasından arka plan kod dosyasına taşıyın.
+</remarks>
+</member>
+<member name="F:DokumanYonetimi.Login._ScriptManager1">
+<summary>
+ScriptManager1 denetimi.
+</summary>
+<remarks>
+Otomatik üretilmiş alan.
+Değiştirmek için, alan bildirimini tasarımcı dosyasından arka plan kod dosyasına taşıyın.
+</remarks>
+</member>
+<member name="F:DokumanYonetimi.Login._UpdatePanel1">
+<summary>
+UpdatePanel1 denetimi.
+</summary>
+<remarks>
+Otomatik üretilmiş alan.
+Değiştirmek için, alan bildirimini tasarımcı dosyasından arka plan kod dosyasına taşıyın.
+</remarks>
+</member>
+<member name="F:DokumanYonetimi.Login._KullaniciGiris">
+<summary>
+KullaniciGiris denetimi.
+</summary>
+<remarks>
+Otomatik üretilmiş alan.
+Değiştirmek için, alan bildirimini tasarımcı dosyasından arka plan kod dosyasına taşıyın.
+</remarks>
+</member>
+<member name="F:DokumanYonetimi.Login._TxtKullaniciAdi">
+<summary>
+TxtKullaniciAdi denetimi.
+</summary>
+<remarks>
+Otomatik üretilmiş alan.
+Değiştirmek için, alan bildirimini tasarımcı dosyasından arka plan kod dosyasına taşıyın.
+</remarks>
+</member>
+<member name="F:DokumanYonetimi.Login._TxtSifre">
+<summary>
+TxtSifre denetimi.
+</summary>
+<remarks>
+Otomatik üretilmiş alan.
+Değiştirmek için, alan bildirimini tasarımcı dosyasından arka plan kod dosyasına taşıyın.
+</remarks>
+</member>
+<member name="F:DokumanYonetimi.Login._BtnGiris">
+<summary>
+BtnGiris denetimi.
+</summary>
+<remarks>
+Otomatik üretilmiş alan.
+Değiştirmek için, alan bildirimini tasarımcı dosyasından arka plan kod dosyasına taşıyın.
+</remarks>
+</member>
+<member name="F:DokumanYonetimi.MDocuments._form1">
+<summary>
+form1 denetimi.
+</summary>
+<remarks>
+Otomatik üretilmiş alan.
+Değiştirmek için, alan bildirimini tasarımcı dosyasından arka plan kod dosyasına taşıyın.
+</remarks>
+</member>
+<member name="F:DokumanYonetimi.MDocuments._BtnYonetimRapor">
+<summary>
+BtnYonetimRapor denetimi.
+</summary>
+<remarks>
+Otomatik üretilmiş alan.
+Değiştirmek için, alan bildirimini tasarımcı dosyasından arka plan kod dosyasına taşıyın.
+</remarks>
+</member>
+<member name="F:DokumanYonetimi.MDocuments._TxtAra">
+<summary>
+TxtAra denetimi.
+</summary>
+<remarks>
+Otomatik üretilmiş alan.
+Değiştirmek için, alan bildirimini tasarımcı dosyasından arka plan kod dosyasına taşıyın.
+</remarks>
+</member>
+<member name="F:DokumanYonetimi.MDocuments._Btn_Evrak_Ara">
+<summary>
+Btn_Evrak_Ara denetimi.
+</summary>
+<remarks>
+Otomatik üretilmiş alan.
+Değiştirmek için, alan bildirimini tasarımcı dosyasından arka plan kod dosyasına taşıyın.
+</remarks>
+</member>
+<member name="F:DokumanYonetimi.MDocuments._Btn_iptal">
+<summary>
+Btn_iptal denetimi.
+</summary>
+<remarks>
+Otomatik üretilmiş alan.
+Değiştirmek için, alan bildirimini tasarımcı dosyasından arka plan kod dosyasına taşıyın.
+</remarks>
+</member>
+<member name="F:DokumanYonetimi.MDocuments._LblId">
+<summary>
+LblId denetimi.
+</summary>
+<remarks>
+Otomatik üretilmiş alan.
+Değiştirmek için, alan bildirimini tasarımcı dosyasından arka plan kod dosyasına taşıyın.
+</remarks>
+</member>
+<member name="F:DokumanYonetimi.MDocuments._Label1">
+<summary>
+Label1 denetimi.
+</summary>
+<remarks>
+Otomatik üretilmiş alan.
+Değiştirmek için, alan bildirimini tasarımcı dosyasından arka plan kod dosyasına taşıyın.
+</remarks>
+</member>
+<member name="F:DokumanYonetimi.MDocuments._LblDosyaAdi">
+<summary>
+LblDosyaAdi denetimi.
+</summary>
+<remarks>
+Otomatik üretilmiş alan.
+Değiştirmek için, alan bildirimini tasarımcı dosyasından arka plan kod dosyasına taşıyın.
+</remarks>
+</member>
+<member name="F:DokumanYonetimi.MDocuments._Beyanname_id">
+<summary>
+Beyanname_id denetimi.
+</summary>
+<remarks>
+Otomatik üretilmiş alan.
+Değiştirmek için, alan bildirimini tasarımcı dosyasından arka plan kod dosyasına taşıyın.
+</remarks>
+</member>
+<member name="F:DokumanYonetimi.MDocuments._Div_Beyannameler">
+<summary>
+Div_Beyannameler denetimi.
+</summary>
+<remarks>
+Otomatik üretilmiş alan.
+Değiştirmek için, alan bildirimini tasarımcı dosyasından arka plan kod dosyasına taşıyın.
+</remarks>
+</member>
+<member name="F:DokumanYonetimi.MDocuments._GridView1">
+<summary>
+GridView1 denetimi.
+</summary>
+<remarks>
+Otomatik üretilmiş alan.
+Değiştirmek için, alan bildirimini tasarımcı dosyasından arka plan kod dosyasına taşıyın.
+</remarks>
+</member>
+<member name="F:DokumanYonetimi.Mdocuments_Login._form1">
+<summary>
+form1 denetimi.
+</summary>
+<remarks>
+Otomatik üretilmiş alan.
+Değiştirmek için, alan bildirimini tasarımcı dosyasından arka plan kod dosyasına taşıyın.
+</remarks>
+</member>
+<member name="F:DokumanYonetimi.Mdocuments_Login._ScriptManager1">
+<summary>
+ScriptManager1 denetimi.
+</summary>
+<remarks>
+Otomatik üretilmiş alan.
+Değiştirmek için, alan bildirimini tasarımcı dosyasından arka plan kod dosyasına taşıyın.
+</remarks>
+</member>
+<member name="F:DokumanYonetimi.Mdocuments_Login._UpdatePanel1">
+<summary>
+UpdatePanel1 denetimi.
+</summary>
+<remarks>
+Otomatik üretilmiş alan.
+Değiştirmek için, alan bildirimini tasarımcı dosyasından arka plan kod dosyasına taşıyın.
+</remarks>
+</member>
+<member name="F:DokumanYonetimi.Mdocuments_Login._KullaniciGiris">
+<summary>
+KullaniciGiris denetimi.
+</summary>
+<remarks>
+Otomatik üretilmiş alan.
+Değiştirmek için, alan bildirimini tasarımcı dosyasından arka plan kod dosyasına taşıyın.
+</remarks>
+</member>
+<member name="F:DokumanYonetimi.Mdocuments_Login._TxtKullaniciAdi">
+<summary>
+TxtKullaniciAdi denetimi.
+</summary>
+<remarks>
+Otomatik üretilmiş alan.
+Değiştirmek için, alan bildirimini tasarımcı dosyasından arka plan kod dosyasına taşıyın.
+</remarks>
+</member>
+<member name="F:DokumanYonetimi.Mdocuments_Login._TxtSifre">
+<summary>
+TxtSifre denetimi.
+</summary>
+<remarks>
+Otomatik üretilmiş alan.
+Değiştirmek için, alan bildirimini tasarımcı dosyasından arka plan kod dosyasına taşıyın.
+</remarks>
+</member>
+<member name="F:DokumanYonetimi.Mdocuments_Login._BtnGiris">
+<summary>
+BtnGiris denetimi.
+</summary>
+<remarks>
+Otomatik üretilmiş alan.
+Değiştirmek için, alan bildirimini tasarımcı dosyasından arka plan kod dosyasına taşıyın.
+</remarks>
+</member>
+<member name="F:DokumanYonetimi.Menu._form1">
+<summary>
+form1 denetimi.
+</summary>
+<remarks>
+Otomatik üretilmiş alan.
+Değiştirmek için, alan bildirimini tasarımcı dosyasından arka plan kod dosyasına taşıyın.
+</remarks>
+</member>
+<member name="F:DokumanYonetimi.Menu._ScriptManager1">
+<summary>
+ScriptManager1 denetimi.
+</summary>
+<remarks>
+Otomatik üretilmiş alan.
+Değiştirmek için, alan bildirimini tasarımcı dosyasından arka plan kod dosyasına taşıyın.
+</remarks>
+</member>
+<member name="F:DokumanYonetimi.Menu._UpdatePanel1">
+<summary>
+UpdatePanel1 denetimi.
+</summary>
+<remarks>
+Otomatik üretilmiş alan.
+Değiştirmek için, alan bildirimini tasarımcı dosyasından arka plan kod dosyasına taşıyın.
+</remarks>
+</member>
+<member name="F:DokumanYonetimi.Users._form1">
+<summary>
+form1 denetimi.
+</summary>
+<remarks>
+Otomatik üretilmiş alan.
+Değiştirmek için, alan bildirimini tasarımcı dosyasından arka plan kod dosyasına taşıyın.
+</remarks>
+</member>
+<member name="F:DokumanYonetimi.Users._ScriptManager1">
+<summary>
+ScriptManager1 denetimi.
+</summary>
+<remarks>
+Otomatik üretilmiş alan.
+Değiştirmek için, alan bildirimini tasarımcı dosyasından arka plan kod dosyasına taşıyın.
+</remarks>
+</member>
+<member name="F:DokumanYonetimi.Users._UpdatePanel1">
+<summary>
+UpdatePanel1 denetimi.
+</summary>
+<remarks>
+Otomatik üretilmiş alan.
+Değiştirmek için, alan bildirimini tasarımcı dosyasından arka plan kod dosyasına taşıyın.
+</remarks>
+</member>
+<member name="F:DokumanYonetimi.Users._BtnYonetimRapor">
+<summary>
+BtnYonetimRapor denetimi.
+</summary>
+<remarks>
+Otomatik üretilmiş alan.
+Değiştirmek için, alan bildirimini tasarımcı dosyasından arka plan kod dosyasına taşıyın.
+</remarks>
+</member>
+<member name="F:DokumanYonetimi.Users._TxtAra">
+<summary>
+TxtAra denetimi.
+</summary>
+<remarks>
+Otomatik üretilmiş alan.
+Değiştirmek için, alan bildirimini tasarımcı dosyasından arka plan kod dosyasına taşıyın.
+</remarks>
+</member>
+<member name="F:DokumanYonetimi.Users._BtnKullaniciAra">
+<summary>
+BtnKullaniciAra denetimi.
+</summary>
+<remarks>
+Otomatik üretilmiş alan.
+Değiştirmek için, alan bildirimini tasarımcı dosyasından arka plan kod dosyasına taşıyın.
+</remarks>
+</member>
+<member name="F:DokumanYonetimi.Users._Kullanici_id">
+<summary>
+Kullanici_id denetimi.
+</summary>
+<remarks>
+Otomatik üretilmiş alan.
+Değiştirmek için, alan bildirimini tasarımcı dosyasından arka plan kod dosyasına taşıyın.
+</remarks>
+</member>
+<member name="F:DokumanYonetimi.Users._BtnKullaniciEkle">
+<summary>
+BtnKullaniciEkle denetimi.
+</summary>
+<remarks>
+Otomatik üretilmiş alan.
+Değiştirmek için, alan bildirimini tasarımcı dosyasından arka plan kod dosyasına taşıyın.
+</remarks>
+</member>
+<member name="F:DokumanYonetimi.Users._Div_Kullanicilar_Grid">
+<summary>
+Div_Kullanicilar_Grid denetimi.
+</summary>
+<remarks>
+Otomatik üretilmiş alan.
+Değiştirmek için, alan bildirimini tasarımcı dosyasından arka plan kod dosyasına taşıyın.
+</remarks>
+</member>
+<member name="F:DokumanYonetimi.Users._GridView1">
+<summary>
+GridView1 denetimi.
+</summary>
+<remarks>
+Otomatik üretilmiş alan.
+Değiştirmek için, alan bildirimini tasarımcı dosyasından arka plan kod dosyasına taşıyın.
+</remarks>
+</member>
+<member name="F:DokumanYonetimi.Users._Div_KullaniciEkle">
+<summary>
+Div_KullaniciEkle denetimi.
+</summary>
+<remarks>
+Otomatik üretilmiş alan.
+Değiştirmek için, alan bildirimini tasarımcı dosyasından arka plan kod dosyasına taşıyın.
+</remarks>
+</member>
+<member name="F:DokumanYonetimi.Users._TXT_KULLANICI_ADI">
+<summary>
+TXT_KULLANICI_ADI denetimi.
+</summary>
+<remarks>
+Otomatik üretilmiş alan.
+Değiştirmek için, alan bildirimini tasarımcı dosyasından arka plan kod dosyasına taşıyın.
+</remarks>
+</member>
+<member name="F:DokumanYonetimi.Users._TXT_PAROLA">
+<summary>
+TXT_PAROLA denetimi.
+</summary>
+<remarks>
+Otomatik üretilmiş alan.
+Değiştirmek için, alan bildirimini tasarımcı dosyasından arka plan kod dosyasına taşıyın.
+</remarks>
+</member>
+<member name="F:DokumanYonetimi.Users._TXT_FIRMA_ADI">
+<summary>
+TXT_FIRMA_ADI denetimi.
+</summary>
+<remarks>
+Otomatik üretilmiş alan.
+Değiştirmek için, alan bildirimini tasarımcı dosyasından arka plan kod dosyasına taşıyın.
+</remarks>
+</member>
+<member name="F:DokumanYonetimi.Users._TXT_FIRMA_ADRESI">
+<summary>
+TXT_FIRMA_ADRESI denetimi.
+</summary>
+<remarks>
+Otomatik üretilmiş alan.
+Değiştirmek için, alan bildirimini tasarımcı dosyasından arka plan kod dosyasına taşıyın.
+</remarks>
+</member>
+<member name="F:DokumanYonetimi.Users._BtnKullaniciKaydet">
+<summary>
+BtnKullaniciKaydet denetimi.
+</summary>
+<remarks>
+Otomatik üretilmiş alan.
+Değiştirmek için, alan bildirimini tasarımcı dosyasından arka plan kod dosyasına taşıyın.
+</remarks>
+</member>
+<member name="F:DokumanYonetimi.Users._BtnKullaniciGuncelleKaydet">
+<summary>
+BtnKullaniciGuncelleKaydet denetimi.
+</summary>
+<remarks>
+Otomatik üretilmiş alan.
+Değiştirmek için, alan bildirimini tasarımcı dosyasından arka plan kod dosyasına taşıyın.
+</remarks>
+</member>
+<member name="F:DokumanYonetimi.Users._BtnKullaniciIptal">
+<summary>
+BtnKullaniciIptal denetimi.
+</summary>
+<remarks>
+Otomatik üretilmiş alan.
+Değiştirmek için, alan bildirimini tasarımcı dosyasından arka plan kod dosyasına taşıyın.
+</remarks>
+</member>
+</members>
+</doc>

@@ -1,0 +1,306 @@
+@import "../Divi/style.css";
+
+.et-pb-arrow-prev:before, .et-pb-arrow-next:before, .et_pb_testimonial:before, .et_pb_toggle_title:before, .et_overlay:before, #et_search_icon:before, .mobile_menu_bar:before, .et-social-icon a:before, .et_pb_social_icon a.icon:before, .et_pb_font_icon:before, .et_audio_container .mejs-playpause-button button:before, .et_audio_container .mejs-volume-button button:before, #et-info-phone:before, #et-info-email:before, .et-cart-info span:before, .et_pb_pricing_table_button:after, .et_pb_promo_button:after, a.et_pb_more_button:after, .et_pb_newsletter_button:after, .comment-reply-link:after, .form-submit input:after, .et_pb_contact_submit:after, .et_pb_contact_reset:after, .et_password_protected_form .et_submit_button:after, .et_pb_button:after, .woocommerce button.single_add_to_cart_button.button:after, .woocommerce a.button.alt:after, .woocommerce-page a.button.alt:after, .woocommerce button.button.alt:after, .woocommerce-page button.button.alt:after, .woocommerce input.button.alt:after, .woocommerce-page input.button.alt:after, .woocommerce #respond input#submit.alt:after, .woocommerce-page #respond input#submit.alt:after, .woocommerce #content input.button.alt:after, .woocommerce-page #content input.button.alt:after, .woocommerce-page a.button:after, .woocommerce button.button:after, .woocommerce-page button.button:after, .woocommerce input.button:after, .woocommerce-page input.button:after, .woocommerce #respond input#submit:after, .woocommerce-page #respond input#submit:after, .woocommerce #content input.button:after, .woocommerce-page #content input.button:after {
+    font-family: etmodules !important;
+    font-weight: 400;
+    font-style: normal;
+    font-variant: normal;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    line-height: 1;
+    text-transform: none;
+    speak: none
+}
+
+.et_pb_custom_button_icon.et_pb_button:after {
+    content: attr(data-icon)
+}
+
+.et-social-icons li:first-of-type {
+    margin-left: 0
+}
+
+.bottom-nav {
+    padding: 0 0 -100px
+}
+
+    .bottom-nav li {
+        display: inline-block;
+        padding-left: 22px;
+        font-size: 14px;
+        font-weight: 600
+    }
+
+.bottom-nav {
+    padding-left: 0
+}
+
+.video-content-part.et_pb_row.et_pb_row_0 {
+    padding: 40px 0
+}
+
+.video-content-part h1 {
+    color: #0c84c1;
+    font-size: 48px;
+    letter-spacing: -2.5px;
+    line-height: normal;
+    padding-bottom: 5px
+}
+
+.video-content-part h3 {
+    color: #505859;
+    font-style: italic;
+    font-weight: 700;
+    letter-spacing: -1px;
+    line-height: normal;
+    padding-bottom: 10px;
+    text-transform: lowercase
+}
+
+.video-content-part p {
+    color: #505859;
+    font-size: 18px;
+    font-weight: 500;
+    letter-spacing: -1px;
+    line-height: 28px;
+    margin-bottom: 0;
+    padding-bottom: 0
+}
+
+    .video-content-part p br {
+        display: none
+    }
+
+.gravity-custom {
+    float: none;
+    max-width: 520px
+}
+
+    .gravity-custom form {
+        max-width: 441px
+    }
+
+.gform_title {
+    color: #0484c1 !important;
+    font-size: 30px !important;
+    font-style: normal !important;
+    letter-spacing: 0 !important;
+    margin: 0 !important;
+    text-transform: capitalize !important
+}
+
+.gravity-custom .gform_wrapper .top_label input.medium {
+    width: 100%
+}
+
+body .gform_wrapper .top_label div.ginput_container {
+    margin-top: 0 !important
+}
+
+.gravity-custom .gform_wrapper .gform_footer {
+    background: #ef3742 none repeat scroll 0 0;
+    clear: both;
+    margin: 35px 0;
+    padding: 10px 35px;
+    border-radius: 15px;
+    display: inline-block;
+    cursor: pointer
+}
+
+.gravity-custom .gform_button.button {
+    background: transparent none repeat scroll 0 0;
+    border: 0;
+    color: #fff;
+    display: inline-block;
+    font-size: 24px !important;
+    line-height: normal;
+    margin-right: 0 !important;
+    padding: 0;
+    cursor: pointer
+}
+
+.gravity-custom .gform_wrapper li.gfield.gfield_error, .gravity-custom .gform_wrapper li.gfield.gfield_error.gfield_contains_required.gfield_creditcard_warning {
+    border-bottom: 0;
+    border-top: 0;
+    box-sizing: border-box;
+    margin-bottom: 0 !important;
+    padding-bottom: 0;
+    padding-top: 0
+}
+
+.gravity-custom .gform_wrapper div.validation_error {
+    display: none
+}
+
+.gravity-custom .gform_wrapper li.gfield.gfield_error.gfield_contains_required div.ginput_container, .gravity-custom .gform_wrapper li.gfield.gfield_error.gfield_contains_required label.gfield_label {
+    margin: 0
+}
+
+.gravity-custom .gform_wrapper span.gform_description {
+    display: block;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: normal;
+    margin-bottom: 32px;
+    width: calc(100% - 16px);
+    color: #505859
+}
+
+.gravity-custom .gform_wrapper .skype_c2c_container {
+    color: #505859;
+    font-weight: 700
+}
+
+.gravity-custom .gform_wrapper .field_description_below .gfield_description {
+    padding: 0
+}
+
+.blockqute-banner .blockquote {
+    background: #f9f9f9;
+    padding-left: 0 !important;
+    position: relative
+}
+
+.blockqute-banner blockquote:before {
+    background: url(quote.png);
+    position: absolute;
+    content: "";
+    left: 0;
+    right: 0;
+    top: 0;
+    margin: 0 auto;
+    height: 34px;
+    width: 47px
+}
+
+.blockqute-banner blockquote::before {
+}
+
+.blockqute-banner blockquote {
+    border-left: 5px solid;
+    font-style: italic;
+    margin: 40px 0 20px;
+    padding-left: 0 2px;
+    text-align: center
+}
+
+    .blockqute-banner blockquote p {
+        display: inline;
+        font-size: 18px;
+        line-height: normal
+    }
+
+.et-search-form, .nav li ul, .et_mobile_menu, .footer-widget li::before, .et_pb_pricing li::before, blockquote {
+    border: 0 !important
+}
+
+.blockqute-banner .et_pb_text_2 {
+    background-color: #4c91bd;
+    border: 0;
+    color: #fff !important;
+    font-size: 22px;
+    padding: 0 !important
+}
+
+.blockqute-banner h4 {
+    font-size: 22px;
+    line-height: normal;
+    color: #fff;
+    font-weight: 700
+}
+
+.cta-block h2 {
+    color: #fff;
+    font-size: 24px;
+    font-weight: 700;
+    line-height: normal;
+    margin: 15px auto 0;
+    max-width: 190px;
+    padding-bottom: 0
+}
+
+.cta-block .et_pb_promo_button, .cta-block .et_pb_module.et_pb_button {
+    background: #0484c1 none repeat scroll 0 0;
+    border: medium;
+    border-radius: 14px;
+    color: inherit;
+    display: inline-block;
+    font-size: 16px;
+    font-weight: 700
+}
+
+    .cta-block .et_pb_button:hover:after, .cta-block .et_pb_more_button:hover:after, .cta-block .et_pb_promo_button:hover:after {
+        margin-left: 0;
+        opacity: 1;
+        margin-top: -2px
+    }
+
+@media all and (min-width:1405px) {
+    #menu-footer-1 {
+        float: left;
+        padding: 0
+    }
+}
+
+@media all and (min-width:981px) and (max-width:1405px) {
+    #menu-footer-1 {
+        float: left;
+        padding: 0
+    }
+}
+
+@media(max-width:640px) {
+    .gravity-custom {
+        float: none;
+        max-width: 100%
+    }
+
+        .gravity-custom form {
+            max-width: 100%
+        }
+
+        .gravity-custom .gform_wrapper .gform_footer {
+            margin-bottom: 0;
+            margin: 20px 0;
+            padding: 10px 20px
+        }
+
+        .gravity-custom .gform_button.button {
+            margin-bottom: 0 !important;
+            font-size: 19px !important
+        }
+
+        .gravity-custom .gform_wrapper .gform_page_footer input[type=submit] {
+            margin-bottom: 0
+        }
+}
+
+.wp-image-25211 {
+    margin-bottom: 30px !important
+}
+
+.imagPart {
+    display: table-cell;
+    vertical-align: top;
+    padding-right: 20px;
+    min-width: 250px
+}
+
+.contentPart {
+    display: table-cell;
+    vertical-align: top
+}
+
+@media screen and (max-width:640px) {
+    .contentPart, .imagPart {
+        width: 100%;
+        display: block;
+        clear: both
+    }
+
+        .imagPart img {
+            float: none;
+            margin: auto;
+            display: block
+        }
+}

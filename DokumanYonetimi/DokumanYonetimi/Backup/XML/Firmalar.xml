@@ -1,0 +1,31 @@
+<?xml version="1.0" standalone="yes"?>
+<Firmalar>
+  <FirmaBilgileri>
+    <Firma_id>3</Firma_id>
+    <Firma_Kullanici_Adi>DENEME</Firma_Kullanici_Adi>
+    <Firma_Sifre>3</Firma_Sifre>
+    <Firma_Adi>DENEME TEKSTIL</Firma_Adi>
+    <Firma_Adresi>B CEKMECE ISTANBUL</Firma_Adresi>
+  </FirmaBilgileri>
+  <FirmaBilgileri>
+    <Firma_id>4</Firma_id>
+    <Firma_Kullanici_Adi>ISTANBUL</Firma_Kullanici_Adi>
+    <Firma_Sifre>123456</Firma_Sifre>
+    <Firma_Adi>ISTANBUL TEKSTIL SAN</Firma_Adi>
+    <Firma_Adresi>DENEME ISTANBUL ADRES</Firma_Adresi>
+  </FirmaBilgileri>
+  <FirmaBilgileri>
+    <Firma_id>5</Firma_id>
+    <Firma_Kullanici_Adi>TEST1</Firma_Kullanici_Adi>
+    <Firma_Sifre>123</Firma_Sifre>
+    <Firma_Adi>MAVI TEKS</Firma_Adi>
+    <Firma_Adresi>BASIN EKSPRES YOLU</Firma_Adresi>
+  </FirmaBilgileri>
+  <FirmaBilgileri>
+    <Firma_id>6</Firma_id>
+    <Firma_Kullanici_Adi>elvan</Firma_Kullanici_Adi>
+    <Firma_Sifre>123</Firma_Sifre>
+    <Firma_Adi>elvan tektil</Firma_Adi>
+    <Firma_Adresi>elvan dres</Firma_Adresi>
+  </FirmaBilgileri>
+</Firmalar>
