@@ -31,3 +31,13 @@ C:\IT\WWW\www.imtaslojistik.com\YENI SITE\DokumanYonetimi\DokumanYonetimi\obj\De
 C:\IT\WWW\www.imtaslojistik.com\YENI SITE\DokumanYonetimi\DokumanYonetimi\obj\Debug\DokumanYonetimi.dll
 C:\IT\WWW\www.imtaslojistik.com\YENI SITE\DokumanYonetimi\DokumanYonetimi\obj\Debug\DokumanYonetimi.xml
 C:\IT\WWW\www.imtaslojistik.com\YENI SITE\DokumanYonetimi\DokumanYonetimi\obj\Debug\DokumanYonetimi.pdb
+C:\IT\WWW\www.imtaslojistik.com\DokumanYonetimi\DokumanYonetimi\bin\DokumanYonetimi.dll.config
+C:\IT\WWW\www.imtaslojistik.com\DokumanYonetimi\DokumanYonetimi\bin\DokumanYonetimi.dll
+C:\IT\WWW\www.imtaslojistik.com\DokumanYonetimi\DokumanYonetimi\bin\DokumanYonetimi.pdb
+C:\IT\WWW\www.imtaslojistik.com\DokumanYonetimi\DokumanYonetimi\bin\DokumanYonetimi.xml
+C:\IT\WWW\www.imtaslojistik.com\DokumanYonetimi\DokumanYonetimi\obj\Debug\DokumanYonetimi.vbprojAssemblyReference.cache
+C:\IT\WWW\www.imtaslojistik.com\DokumanYonetimi\DokumanYonetimi\obj\Debug\DokumanYonetimi.Resources.resources
+C:\IT\WWW\www.imtaslojistik.com\DokumanYonetimi\DokumanYonetimi\obj\Debug\DokumanYonetimi.vbproj.GenerateResource.cache
+C:\IT\WWW\www.imtaslojistik.com\DokumanYonetimi\DokumanYonetimi\obj\Debug\DokumanYonetimi.dll
+C:\IT\WWW\www.imtaslojistik.com\DokumanYonetimi\DokumanYonetimi\obj\Debug\DokumanYonetimi.xml
+C:\IT\WWW\www.imtaslojistik.com\DokumanYonetimi\DokumanYonetimi\obj\Debug\DokumanYonetimi.pdb
